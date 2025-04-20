@@ -8,6 +8,6 @@ void main() {
   print(myhighest.round());
   print(myhighest.isNegative);
   print(myhighest.abs());
-  int ageAfter10yer= age+10;
+  int ageAfter10yer=age+10;
   print("My age after 10 years is $ageAfter10yer");
 }
